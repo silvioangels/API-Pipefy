@@ -1,3 +1,5 @@
+#docs https://api-docs.pipefy.com/reference/overview/Card/
+
 import requests
 from urllib import request
 import json
